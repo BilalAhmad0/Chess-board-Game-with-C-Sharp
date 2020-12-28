@@ -1,0 +1,12 @@
+C:\Users\Bilal Ahmad\Desktop\2nd Semester\OOP\Chess\Chess\bin\Debug\Chess.exe.config
+C:\Users\Bilal Ahmad\Desktop\2nd Semester\OOP\Chess\Chess\bin\Debug\Chess.exe
+C:\Users\Bilal Ahmad\Desktop\2nd Semester\OOP\Chess\Chess\bin\Debug\Chess.pdb
+C:\Users\Bilal Ahmad\Desktop\2nd Semester\OOP\Chess\Chess\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+C:\Users\Bilal Ahmad\Desktop\2nd Semester\OOP\Chess\Chess\obj\Debug\Chess.Chess.resources
+C:\Users\Bilal Ahmad\Desktop\2nd Semester\OOP\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\Bilal Ahmad\Desktop\2nd Semester\OOP\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.Cache
+C:\Users\Bilal Ahmad\Desktop\2nd Semester\OOP\Chess\Chess\obj\Debug\Chess.exe
+C:\Users\Bilal Ahmad\Desktop\2nd Semester\OOP\Chess\Chess\obj\Debug\Chess.pdb
+C:\Users\Bilal Ahmad\Desktop\Ali Makhdoom\New folder\Chess\Chess\bin\Debug\Chess.exe.config
+C:\Users\Bilal Ahmad\Desktop\Ali Makhdoom\New folder\Chess\Chess\obj\Debug\Chess.exe
+C:\Users\Bilal Ahmad\Desktop\Ali Makhdoom\New folder\Chess\Chess\obj\Debug\Chess.pdb
